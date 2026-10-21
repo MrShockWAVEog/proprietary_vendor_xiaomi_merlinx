@@ -396,8 +396,6 @@ PRODUCT_PACKAGES += \
     s5kgm1sp_sunny_mipi_raw_india_tuning \
     s5kgm1sp_sunny_mipi_raw_tuning \
     vendor.mediatek.hardware.mdmonitor@1.0 \
-    vendor.mediatek.hardware.mtkradioex@2.0 \
-    vendor.mediatek.hardware.mtkradioex@3.0 \
     CFR_para2_J15_Macro_2M_v515.bin \
     CFR_para2_J15_UW_v504.bin \
     LDC_packdata_xiaomi_J15_Ofilm_3264x2448_v2_20200305.dat \
